@@ -8,7 +8,7 @@ let fg = new Image();
 let pipeNorth = new Image();
 let pipeSouth = new Image();
 
-/*Přiřazení souborů(obrázky) k jednotlivým proměnným*/
+/*Přiřazení souborů(obrázků) k jednotlivým proměnným*/
 rocket.src = "img/rocket.png";
 bg.src = "img/bg.png";
 fg.src = "img/fg.png";
